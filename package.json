@@ -1,0 +1,24 @@
+{
+  "name": "covid19estimatorapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timothymayor/covid19EstimatorApi.git"
+  },
+  "author": "Timothy Mayor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timothymayor/covid19EstimatorApi/issues"
+  },
+  "homepage": "https://github.com/timothymayor/covid19EstimatorApi#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.9",
+    "nodemon": "^2.0.3"
+  }
+}
